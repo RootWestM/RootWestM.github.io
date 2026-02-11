@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RootWestM.github.io/al-folio/sitemap.xml
+Sitemap: https://qiaoyan.me/sitemap.xml

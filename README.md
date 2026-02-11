@@ -280,7 +280,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
   - [Contributing](#contributing)
     - [Maintainers](#maintainers)
     - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
+- [Star History](#star-history)
   - [License](#license)
 
 <!--te-->
